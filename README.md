@@ -29,8 +29,11 @@ Environment - Help reduce paper waste.
 **Overview of SDLC Work**
 
 We follow Agile Scrum:
+
 1.Planning - 
+
 2.Design -
+
 3.Testing - 
 
 
