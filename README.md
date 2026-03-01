@@ -30,11 +30,13 @@ Environment - Help reduce paper waste.
 
 We follow Agile Scrum:
 
-1.Planning - 
+1.Planning - First, we discussed and brainstormed which topic is suitable and meaningful for us as a student.After that we decided to choose SDG 4 - Quality Education. Then we set up trello to keep track of who is doing what so that we wouldn't miss the week 6 deadline. 
 
-2.Design -
+2.Design - Once we comfirmed with our goal, our Analyst started to map out the Use Cases and Class Diagrams. After the diagrams were done, we started to discuss how our prototype should look like.
 
-3.Testing - 
+3.Building the prototype - Using the sketches, our prototype designer used Figma to build the screen for our idea. We didn't make the whole system work because this project is time-limited, but we made it clickable so u can see the flow from user searching for a book to buy a book for rm 0.
+
+4.Testing and feedback - Finally, we showed our prototype to our friends and ask them to search for a book from a specific subject. From there, we noticed where they got stuck. Hence, we received the feedback from them and fixed the layout. 
 
 
 
