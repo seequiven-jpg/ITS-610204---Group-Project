@@ -7,13 +7,13 @@ The mission of SPM-Warisan is to make learning materials affordable for SMK (Sek
 
 **See Qui Ven** - Project Leader 
 
-**Aaron Ting Ee Shen** -
+**Aaron Ting Ee Shen** - Prototype Designer
 
-**Micheal** -
+**Micheal** - Class Diagram Creator
 
-**Joe** -
+**Joe** - Report Writer
 
-**Jason** -
+**Jason** - Use Cases Diagram Creator
 
 
 **Project Description**
