@@ -22,9 +22,11 @@ The mission of SPM-Warisan is to make learning materials affordable for SMK (Sek
 - README file ✅
 - User Stories ✅
 - Uses Cases ✅
-- Class Diagram (half) 
+- Class Diagram (half, will done by today) 
 - Figma prototype 
 - Final report
+- Trello every card details (done by today)
+  
 
 
 **Project Description**
