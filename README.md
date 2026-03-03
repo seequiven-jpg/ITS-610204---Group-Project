@@ -36,7 +36,9 @@ SPM-Warisan is a software solution designed for the Malaysian SMK community. Aft
 **Who it help?**
 
 Seniors - Able to earn a small amount of money back, or gain charity points by donating.
+
 Juniors - Students, especially from B40 families can reduce the burden and continue their learning journey.
+
 Environment - Help reduce paper waste.
 
 **Overview of SDLC Work**
