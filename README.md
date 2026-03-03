@@ -5,7 +5,7 @@ The mission of SPM-Warisan is to make learning materials affordable for SMK (Sek
 
 **Team Members & Roles**
 
-**See Qui Ven** - Project Leader 
+**See Qui Ven** - Project Leader and Scrum Master
 
 **Aaron Ting Ee Shen** - Prototype Designer
 
