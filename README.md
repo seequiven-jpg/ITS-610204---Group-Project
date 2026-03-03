@@ -15,6 +15,17 @@ The mission of SPM-Warisan is to make learning materials affordable for SMK (Sek
 
 **Jason** - Use Cases Diagram Creator
 
+What have we done so far
+- Product Vision Document ✅
+- Github setup ✅
+- Trello setup ✅
+- README file ✅
+- User Stories ✅
+- Uses Cases ✅
+- Class Diagram (half) 
+- Figma prototype 
+- Final report
+
 
 **Project Description**
 
