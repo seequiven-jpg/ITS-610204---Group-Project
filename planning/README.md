@@ -11,3 +11,5 @@ https://github.com/seequiven-jpg/ITS-610204---Group-Project/blob/main/planning/P
 https://trello.com/b/JVYUY4NE/spm-warisan
 
 **3.User Stories**:
+
+https://github.com/seequiven-jpg/ITS-610204---Group-Project/blob/main/planning/USER%20STORIES.pdf
