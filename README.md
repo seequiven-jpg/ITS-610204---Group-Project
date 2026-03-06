@@ -15,6 +15,7 @@ The mission of SPM-Warisan is to make learning materials affordable for SMK (Sek
 
 **Jason** - Use Cases Diagram Creator
 
+
 **What have we done so far**
 - Product Vision Document ✅
 - Github setup ✅
@@ -33,6 +34,8 @@ The mission of SPM-Warisan is to make learning materials affordable for SMK (Sek
 
 SPM-Warisan is a software solution designed for the Malaysian SMK community. After SPM examination, thousands of study materials are often thrown away or left unused. Our platform creates a "relay" system where graduates can either donate or sell their study materials at very low cost to lower form students, especially for those who can't afford these learning materials.
 
+
+
 **Who it help?**
 
 Seniors - Able to earn a small amount of money back, or gain charity points by donating.
@@ -40,6 +43,8 @@ Seniors - Able to earn a small amount of money back, or gain charity points by d
 Juniors - Students, especially from B40 families can reduce the burden and continue their learning journey.
 
 Environment - Help reduce paper waste.
+
+
 
 **Overview of SDLC Work**
 
