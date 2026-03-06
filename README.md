@@ -52,7 +52,7 @@ We follow Agile Scrum:
 
 **1.Planning** - First, we discussed and brainstormed which topic is suitable and meaningful for us as a student.After that we decided to choose SDG 4 - Quality Education.During this phase, we wrote down our User Stories to clearly define what Junior, Senior and Admin need in the app.After that, we also set up trello board to keep track of our progress so that we wouldn't miss the week 6 deadline. 
 
-**2.Design** - Once we comfirmed with our goal, we started to turn our ideas into clear plans.Our analysts started to map out the Use Cases and Class Diagrams to show how the system should function and how different users should interact with it. After the diagrams were done, we then  discussed how our prototype should look like to meet the actors requirement.
+**2.Design** - Once we confirmed with our goal, we started to turn our ideas into clear plans.Our analysts started to map out the Use Cases and Class Diagrams to show how the system should function and how different users should interact with it. After the diagrams were done, we then  discussed how our prototype should look like to meet the actors requirement.
 
 **3.Building the prototype** - Using the sketches, our prototype designer used Figma to build the main screens for our idea. We didn't make the whole system work (backend or store real data) because this project is time-limited, but we made it visual walkthrough. This screens show exactly how a user would move through the app. For example, starting from a Junior searching for a book until they reach the "Book Secured" page. Hence, this prototype shows our full idea even though it is just screens.
 
