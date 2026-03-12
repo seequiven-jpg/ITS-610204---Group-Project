@@ -15,6 +15,9 @@ As a leader, I have to be very honest that this project was a huge challenge for
 
 But even with the stress, we worked hard to catch up.It was a really great feeling to see how our ideas for this project into a real-looking app.We learned a lot about working together as well as getting feedback from our teacher, and we also proud that we finally made it here.Hopefully one day in the future, we could actually build something that help Malaysian students.
 
+**Final Report**
+
+file:///C:/Users/NITRO/Downloads/ITS610204_SPM-Warisan_SeeQuiVen.pdf
 
 **Below is our Figma prototype screenshots**
 
